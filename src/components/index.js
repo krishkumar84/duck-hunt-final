@@ -10,6 +10,8 @@ import Button from "./Button";
 
 import AuthLayout from "./AuthLayout";
 import Input from "./Input";
+
+import Footer from "./Footer/Footer";
 export {
     Header,
     Container,
@@ -19,4 +21,5 @@ export {
     Button,
     AuthLayout, 
     Input,
+    Footer,
 }
