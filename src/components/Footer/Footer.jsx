@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import myImage from '../Header/duckcup.png'
 
-
+//footer
 function Footer() {
   return (
     <section className="relative overflow-hidden py-10 bg-gradient-radial   border-t-black">
